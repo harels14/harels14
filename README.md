@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Harel!</h1>
 <p align="center">
-  <b>Computer Science Student</b>
+  <b>Computer Science Student | Full Stack Developer</b>
 </p>
 
 ---
