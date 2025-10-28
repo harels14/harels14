@@ -16,7 +16,7 @@
 
 ### 🛠️ Skills & Tools
 
-- **Languages:** Python, Java, SQL
+- **Languages:** Python, Java, JavaScript
 - **Web Development:** Currently learning HTML, CSS, JavaScript
 - **Tools:** PyCharm, Postgres, VSCode
 - **Interests:** AI, Machine Learning, Full Stack Development, Math
