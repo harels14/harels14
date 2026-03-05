@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🏫 **Second year Computer Science student** – halfway through my degree, always curious and eager to learn.
+- 🏫 **Third year Computer Science student** – always curious and eager to learn.
 - 📚 Completed university courses in **Java**, **Data Structures & Algorithms**, and advanced math (**Calculus II**, **Linear Algebra II**).
 - 🤖 Interested in **Artificial Intelligence** & **Machine Learning** – always exploring new developments.
 - 💡 I enjoy picking up new programming languages, frameworks, and collaborating on cool projects.
