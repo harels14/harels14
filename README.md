@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Harel!</h1>
 <p align="center">
-  <b>Computer Science Student | Full Stack Developer</b>
+  <b> Software Engineer | Computer Science Student</b>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🏫 **Third year Computer Science student** – always curious and eager to learn.
-- 📚 Completed university courses in **Java**, **Data Structures & Algorithms**, and advanced math (**Calculus II**, **Linear Algebra II**).
+- 🏫 **Third year Computer Science student** - always curious and eager to learn.
 - 🤖 Interested in **Artificial Intelligence** & **Machine Learning** – always exploring new developments.
 - 💡 I enjoy picking up new programming languages, frameworks, and collaborating on cool projects.
 
@@ -16,12 +15,10 @@
 
 ### 🛠️ Skills & Tools
 
-- **Languages:** Python, Java, JavaScript
-- **Web Development:** Currently learning HTML, CSS, JavaScript
-- **Tools:** PyCharm, Postgres, VSCode
-- **Interests:** AI, Machine Learning, Full Stack Development, Math
-
----
+- **Languages: Python, Java, SQL, TypeScript, JavaScript
+- **Frameworks: React, Next.js, Node.js, Spring Boot, FastAPI, REST APIs
+- **Data & AI: PostgreSQL, Redis, PyTorch, LangChain
+- **Tools & Infrastructure: Docker, Git, Postman, Cloudflare, Linux/Bash
 
 ### 🚀 Featured Project
 
