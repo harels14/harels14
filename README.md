@@ -13,12 +13,12 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠 Technical Stack
 
-- **Languages: Python, Java, SQL, TypeScript, JavaScript
-- **Frameworks: React, Next.js, Node.js, Spring Boot, FastAPI, REST APIs
-- **Data & AI: PostgreSQL, Redis, PyTorch, LangChain
-- **Tools & Infrastructure: Docker, Git, Postman, Cloudflare, Linux/Bash
+* **Languages:** Python, Java, SQL, TypeScript, JavaScript
+* **Frameworks:** React, Next.js, Node.js, Spring Boot, FastAPI, REST APIs
+* **Data & AI:** PostgreSQL, Redis, PyTorch, LangChain
+* **Infrastructure:** Docker, Git, Postman, Cloudflare, Linux/Bash
 
 ### 🚀 Featured Project
 
