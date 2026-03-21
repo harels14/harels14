@@ -31,7 +31,7 @@
 
 ### 🤝 Let's Connect!
 
-- 🌱 Open to collaboration and new projects – always excited to work with fellow developers!
+- 🌱 Open to collaboration and new projects - always excited to work with fellow developers!
 - 💬 Feel free to reach out if you want to chat about tech, AI, or interesting ideas.
 
 ---
