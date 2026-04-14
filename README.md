@@ -20,13 +20,6 @@
 * **Data & AI:** PostgreSQL, Redis, PyTorch, LangChain
 * **Infrastructure:** Docker, Git, Postman, Cloudflare, Linux/Bash
 
-### 🚀 Featured Project
-
-#### [Smart Candidate Screener](https://github.com/harels14/smart-candidate-screener)
-- Built with **Python** & **FastAPI**
-- Scans resume files and provides insightful feedback for candidates
-- Designed to streamline candidate evaluation in recruitment processes
-
 ---
 
 ### 🤝 Let's Connect!
